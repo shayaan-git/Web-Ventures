@@ -1,0 +1,53 @@
+@font-face {
+    font-family: f1;
+    src: url(./NeueMachina-Medium_d0jNuroW9.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: f1;
+}
+
+.main {
+    height: 100%;
+    background-image: url(https://images.unsplash.com/photo-1640927781187-8e6fdd944737?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1964);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 80px;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 100;
+    font-family: f1;
+    color: beige;
+    margin-top: 2rem;
+}
+
+small {
+    font-size: 3rem;
+    color: #7a7a7a;
+}
+
+button {
+    margin-top: 40px;
+    font-size: 20px;
+    padding: 15px 30px;
+    color: azure;
+    background-color: black;
+    border: 3px solid #fff0f0;
+    border-radius: 50px;
+    font-weight: 500;
+}
+
+button:active{
+    scale: 1.05;
+}
