@@ -14,3 +14,7 @@ https://shayaan-git.github.io/Web-Ventures/3.position_concept(e-commerce_homepag
 ## CSS Layout Task (apple-homepage)
 - 📄🔗 Demo Link ⇣
 https://shayaan-git.github.io/Web-Ventures/4.layout_concept(apple-homepage-task)/
+
+## CSS FlexBox Task (flexBox-cards)
+- 📄🔗 Demo Link ⇣
+https://shayaan-git.github.io/Web-Ventures/5.Layout_FlexBox_concept(cards-task)
