@@ -1,4 +1,4 @@
-## Class Topics
+## Class Topics to cover
 
 CSS Boiler Plate Explation
 Transform
