@@ -18,3 +18,12 @@ https://shayaan-git.github.io/Web-Ventures/4.layout_concept(apple-homepage-task)
 ## CSS FlexBox Task (flexBox-cards)
 - 📄🔗 Demo Link ⇣
 https://shayaan-git.github.io/Web-Ventures/5.Layout_FlexBox_concept(cards-task)
+
+## CSS Cards Task (flexBox-cards)
+- 📄🔗 Demo Link ⇣
+https://shayaan-git.github.io/Web-Ventures/6.More_in_css
+
+
+## CSS Task (cards-caraousel)
+- 📄🔗 Demo Link ⇣
+https://shayaan-git.github.io/Web-Ventures/7.master_Css_display
