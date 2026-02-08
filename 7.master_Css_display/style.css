@@ -98,17 +98,18 @@ h2 {
   height: 100%;
   width: 100%;
   background-color: #000000;
-  padding: 30px;
+  padding: 15px 10px;
   display: flex;
   gap: 30px;
   /* Niche Ye property hum parents ko dete hain */
   flex-wrap: nowrap;
-  overflow: auto;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 
-/* #parent::-webkit-scrollbar{
-    display: none;
-} */
+#parent::-webkit-scrollbar {
+  display: none;
+}
 
 .child {
   height: 100%;
@@ -130,12 +131,20 @@ h2 {
   position: absolute;
   padding: 20px;
   font-size: xx-large;
+  cursor: pointer;
+  color: darkgray;
 
-  background-color: rgb(229, 255, 0);
+  background-color: #0000004d;
 
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.scroll-btn-left:hover {
+  opacity: 1;
 }
 
 .scroll-btn-right {
@@ -146,11 +155,18 @@ h2 {
   left: 95%;
   padding: 20px;
   font-size: xx-large;
+  cursor: pointer;
+  color: darkgray;
 
-  background-color: red;
+  background-color: #0000004d;
 
   display: flex;
   align-items: center;
   justify-content: flex-end;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+}
 
+.scroll-btn-right:hover {
+  opacity: 1;
 }
