@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(228, 226, 204);
+}
+
+h1 {
+  display: inline-block;
+}
+h2 {
+  display: inline-block;
+  background-color: rgb(0, 102, 255);
+}
+
+#parent {
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+}
+
+/* :nth-child property */
+/* .box {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 145, 0);
+    border-top: 3px solid black;
+    border-right: 7px solid rgb(115, 13, 13);
+} */
+
+/* .box:nth-last-child(1){
+    background-color: lightblue;
+} */
+
+/* #parent{
+    height: 100%;
+    width: 100%;
+    background-color: #2b2929;
+    display: grid;
+    grid-template-columns:25% 20% 20% 25%;
+    grid-template-rows: 50% 50% 50%;
+} */
+
+/* GRID Property */
+/* .box {
+    background-color: blue;
+}
+
+.box:nth-child(1){
+    background-color: rgb(255, 174, 0);
+}
+.box:nth-child(2n-1){
+    background-color: aqua;
+}
+
+.box:nth-child(3){
+    background-color: rgb(212, 255, 0);
+}
+
+.box:nth-child(4){
+    background-color: rgb(255, 0, 234);
+}
+.box:nth-child(5){
+    background-color: rgb(255, 0, 21);
+} */
+
+/* #parent{
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+} */
+
+/* h1 {
+    font-size: 200px;
+    color: transparent;
+    background-image: url(https://media.tenor.com/agFP33l54LEAAAAM/sziv%C3%A1rv%C3%A1ny-h%C3%A1tt%C3%A9r-rainbow-background.gif);
+    background-clip: text;
+    background-size: cover;
+    text-align: center;
+    -webkit-text-stroke: 2px white;
+} */
+
+/* USE of -webkit-text-stroke */
+/* h1 {
+    font-size: 200px;
+    color: transparent;
+    text-align: center;
+    -webkit-text-stroke: 3px gold;
+} */
+
+#parent {
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  padding: 30px;
+  display: flex;
+  gap: 30px;
+  /* Niche Ye property hum parents ko dete hain */
+  flex-wrap: nowrap;
+  overflow: auto;
+}
+
+/* #parent::-webkit-scrollbar{
+    display: none;
+} */
+
+.child {
+  height: 100%;
+  width: 300px;
+  background-color: white;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.child img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.scroll-btn-left {
+  height: 100%;
+  width: 5%;
+  position: absolute;
+  padding: 20px;
+  font-size: xx-large;
+
+  background-color: rgb(229, 255, 0);
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.scroll-btn-right {
+  height: 100%;
+  width: 5%;
+  position: absolute;
+  top: 0%;
+  left: 95%;
+  padding: 20px;
+  font-size: xx-large;
+
+  background-color: red;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+}
