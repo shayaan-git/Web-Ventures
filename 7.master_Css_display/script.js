@@ -5,14 +5,14 @@ const scroller = document.getElementById("parent");
 
 leftBtn.addEventListener("click", () => {
   scroller.scrollBy({
-    left: -320,
+    left: -370,
     behavior: "smooth",
   });
 });
 
 rightBtn.addEventListener("click", () => {
   scroller.scrollBy({
-    left: 320,
+    left: 370,
     behavior: "smooth",
   });
 });
