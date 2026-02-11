@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: darkslategray;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(46, 46, 46);
+    display: grid;
+    /* grid-template-columns: 100px minmax(200px, 400px) 100px; */
+    grid-template-rows: 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-gap: 10px;
+    align-content: space-evenly;
+    justify-content: center;
+}
+
+.child{
+    background-color: rgb(8, 74, 154);
+    border: 3px solid white;
+    height: 100px;
+    width: 100px;
+}
+
