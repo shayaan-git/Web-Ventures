@@ -1,3 +1,5 @@
+# 🚀🌕
+
 ## First About Me Page 
 - 📄🔗 Demo Link ⇣
 https://shayaan-git.github.io/Web-Ventures/first-about-me-page/
@@ -27,3 +29,9 @@ https://shayaan-git.github.io/Web-Ventures/6.More_in_css
 ## CSS Task (cards-caraousel)
 - 📄🔗 Demo Link ⇣
 https://shayaan-git.github.io/Web-Ventures/7.master_Css_display
+
+## SCSS Task (Hovering-cards-caraousel)
+📄🔗 Demo Link ⇣ https://shayaan-git.github.io/Web-Ventures/9.scss-intro
+
+## Grid Layout Task
+https://shayaan-git.github.io/Web-Ventures/10.grid_layout
