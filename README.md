@@ -1,37 +1,51 @@
 # 🚀🌕
 
-## First About Me Page 
-- 📄🔗 Demo Link ⇣
-https://shayaan-git.github.io/Web-Ventures/first-about-me-page/
+## First About Me Page
 
-## CSS Task 1 Page 
 - 📄🔗 Demo Link ⇣
-https://shayaan-git.github.io/Web-Ventures/css-task/
+  https://shayaan-git.github.io/Web-Ventures/first-about-me-page/
+
+## CSS Task 1 Page
+
+- 📄🔗 Demo Link ⇣
+  https://shayaan-git.github.io/Web-Ventures/css-task/
 
 ## CSS positioning Task (e-commerce_homepage)
-- 📄🔗 Demo Link ⇣
-https://shayaan-git.github.io/Web-Ventures/3.position_concept(e-commerce_homepage-task)/
 
+- 📄🔗 Demo Link ⇣
+  https://shayaan-git.github.io/Web-Ventures/3.position_concept(e-commerce_homepage-task)/
 
 ## CSS Layout Task (apple-homepage)
+
 - 📄🔗 Demo Link ⇣
-https://shayaan-git.github.io/Web-Ventures/4.layout_concept(apple-homepage-task)/
+  https://shayaan-git.github.io/Web-Ventures/4.layout_concept(apple-homepage-task)/
 
 ## CSS FlexBox Task (flexBox-cards)
+
 - 📄🔗 Demo Link ⇣
-https://shayaan-git.github.io/Web-Ventures/5.Layout_FlexBox_concept(cards-task)
+  https://shayaan-git.github.io/Web-Ventures/5.Layout_FlexBox_concept(cards-task)
 
 ## CSS Cards Task (flexBox-cards)
-- 📄🔗 Demo Link ⇣
-https://shayaan-git.github.io/Web-Ventures/6.More_in_css
 
+- 📄🔗 Demo Link ⇣
+  https://shayaan-git.github.io/Web-Ventures/6.More_in_css
 
 ## CSS Task (cards-caraousel)
+
 - 📄🔗 Demo Link ⇣
-https://shayaan-git.github.io/Web-Ventures/7.master_Css_display
+  https://shayaan-git.github.io/Web-Ventures/7.master_Css_display
 
 ## SCSS Task (Hovering-cards-caraousel)
-📄🔗 Demo Link ⇣ https://shayaan-git.github.io/Web-Ventures/9.scss-intro
+
+- 📄🔗 Demo Link ⇣
+  https://shayaan-git.github.io/Web-Ventures/9.scss-intro
 
 ## Grid Layout Task
-https://shayaan-git.github.io/Web-Ventures/10.grid_layout
+
+- 📄🔗 Demo Link ⇣
+  https://shayaan-git.github.io/Web-Ventures/10.grid_layout
+
+## Responsive mini project Task
+
+- 📄🔗 Demo Link ⇣
+  https://shayaan-git.github.io/Web-Ventures/11.Responsive_PROJECT
